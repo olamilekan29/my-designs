@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(239, 239, 247);
+}
+.bottom{
+   display: grid;
+    background-color: rgb(197, 10, 10);
+    height: 350px;
+    width: auto;
+}
+.main{
+    display: flex;
+   width: auto;
+   height: auto;
+}
+.top{
+   
+     background-color: deepskyblue;
+     height: 327px;
+     width: 400px;
+    
+    }
+    .middle{
+       
+         background-color: rgb(18, 189, 18);
+         height: 327px;
+         width: 430px;
+         
+        }
+        .down{
+       
+            background-color: yellow;
+            height: 327px;
+            width: 430px;
+            
+           }
+

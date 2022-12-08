@@ -1,0 +1,11 @@
+Table{
+    font-size: 20px;
+    margin-top: 200px;
+     margin: auto;
+     border: 1px solid black;
+}
+thead, tbody, tr, td{
+    font-size: 20px;
+    border: 1px solid black;
+
+}

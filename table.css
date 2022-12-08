@@ -1,0 +1,10 @@
+Table, thead, tbody, tr, td{
+    font-size: 20px;
+    border: 2px solid black;
+}
+
+thead{
+    background-color: black;
+    color: #fff;
+    
+}

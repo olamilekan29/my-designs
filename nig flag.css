@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+.main{
+    display: flex;
+   width: auto;
+   height: auto;
+}
+.top{
+   
+     background-color: green;
+     height: 676px;
+     width: 400px;
+    
+    }
+    .middle{
+       
+         background-color:#fff;
+         height: 676px;
+         width: 430px;
+         
+        }
+        .down{
+       
+            background-color: green;
+            height: 676px;
+            width: 430px;
+            
+           }
